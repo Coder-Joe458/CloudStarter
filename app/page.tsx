@@ -97,8 +97,8 @@ export default function HomePage() {
                 <div className="text-gray-600">{t('hero.clickDeploy')}</div>
               </div>
               <div className="text-center">
-                <div className="text-4xl font-bold text-primary-600 mb-2">100+</div>
-                <div className="text-gray-600">{t('hero.earlyUsers')}</div>
+                <div className="text-4xl font-bold text-primary-600 mb-2">Now</div>
+                <div className="text-gray-600">{t('hero.betaOpen') /* Beta access now open */}</div>
               </div>
             </div>
 
@@ -139,8 +139,8 @@ export default function HomePage() {
               { name: 'Python', icon: 'fab fa-python', color: 'text-blue-600' },
               { name: 'Go', icon: 'fab fa-golang', color: 'text-cyan-600' },
               { name: 'Docker', icon: 'fab fa-docker', color: 'text-blue-500' },
-              { name: 'Cloud Run', icon: 'fab fa-google', color: 'text-red-500' },
-              { name: 'Fly.io', icon: 'fas fa-paper-plane', color: 'text-purple-600' },
+              { name: 'Vercel', icon: 'fas fa-triangle', color: 'text-black' },
+              { name: 'AWS', icon: 'fab fa-aws', color: 'text-orange-500' },
             ].map((platform, index) => (
               <div key={index} className="text-center group">
                 <div className="bg-white rounded-xl p-6 shadow-lg hover:shadow-xl transition-all transform hover:-translate-y-2">
