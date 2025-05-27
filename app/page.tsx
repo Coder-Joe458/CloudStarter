@@ -325,7 +325,7 @@ export default function HomePage() {
             </p>
             <div className="border-t border-gray-800 pt-8">
               <p className="text-gray-500">
-                © 2024 CloudStarter. {t('footer.rights')}
+                © 2025 CloudStarter. {t('footer.rights')}
               </p>
             </div>
           </div>

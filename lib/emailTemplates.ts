@@ -115,7 +115,7 @@ export const getWaitlistConfirmationEmail = (discordUrl: string) => {
           </div>
           
           <div class="footer">
-            <p>© 2024 CloudStarter. Making deployment simple.</p>
+            <p>© 2025 CloudStarter. Making deployment simple.</p>
             <p>You received this email because you signed up for our beta waitlist.</p>
             <p><a href="mailto:unsubscribe@cloudstarter.com?subject=Unsubscribe" style="color: #666; text-decoration: underline;">Unsubscribe</a> | <a href="mailto:support@cloudstarter.com" style="color: #666; text-decoration: underline;">Contact Support</a></p>
             <p style="font-size: 12px; color: #999;">CloudStarter, Inc. | Beta Testing Program</p>
@@ -141,7 +141,7 @@ Thanks again for your interest in CloudStarter!
 Best regards,
 The CloudStarter Team
 
-© 2024 CloudStarter. Making deployment simple.
+© 2025 CloudStarter. Making deployment simple.
 You received this email because you signed up for our beta waitlist.
     `
   }
