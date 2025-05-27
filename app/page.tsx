@@ -139,7 +139,7 @@ export default function HomePage() {
               { name: 'Python', icon: 'fab fa-python', color: 'text-blue-600' },
               { name: 'Go', icon: 'fab fa-golang', color: 'text-cyan-600' },
               { name: 'Docker', icon: 'fab fa-docker', color: 'text-blue-500' },
-              { name: 'Vercel', icon: 'fas fa-triangle', color: 'text-black' },
+              { name: 'Vercel', icon: 'fas fa-rocket', color: 'text-black' },
               { name: 'AWS', icon: 'fab fa-aws', color: 'text-orange-500' },
             ].map((platform, index) => (
               <div key={index} className="text-center group">

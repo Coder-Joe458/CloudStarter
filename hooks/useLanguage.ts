@@ -15,6 +15,7 @@ export const texts = {
   'hero.configTime': 'Config Time',
   'hero.clickDeploy': 'Click Deploy',
   'hero.earlyUsers': 'Early Users',
+  'hero.betaOpen': 'Beta access now open',
   
   // Platforms
   'platforms.title': 'Supports Multiple Tech Stacks and Platforms',
