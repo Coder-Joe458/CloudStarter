@@ -6,6 +6,7 @@ export const texts = {
   'nav.why': 'Why Us',
   'nav.who': 'Who',
   'nav.waitlist': 'Join Beta Waitlist',
+  'nav.waitlistShort': 'Waitlist',
   
   // Hero Section
   'hero.title': 'Deploy your backend services to the cloud with one click',

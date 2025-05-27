@@ -61,7 +61,7 @@ export default function Navigation() {
               onClick={() => scrollToSection('waitlist')}
               className="text-gray-600 hover:text-primary-600 font-medium transition-colors"
             >
-              {t('nav.waitlist')}
+              {t('nav.waitlistShort')}
             </button>
             
             <button
@@ -114,7 +114,7 @@ export default function Navigation() {
               onClick={() => scrollToSection('waitlist')}
               className="text-gray-600 hover:text-primary-600 font-medium transition-colors text-left"
             >
-              {t('nav.waitlist')}
+              {t('nav.waitlistShort')}
             </button>
             <button
               onClick={() => scrollToSection('waitlist')}
